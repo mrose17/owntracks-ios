@@ -6,7 +6,7 @@
 	<true/>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.org.owntracks.Owntracks</string>
+		<string>group.io.homespun.owntracks</string>
 	</array>
 	<key>com.apple.security.network.client</key>
 	<true/>
